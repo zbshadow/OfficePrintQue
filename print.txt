@@ -1,0 +1,27 @@
+Program Idea
+Create a desktop program with gui to que up files from your computer to print.
+Allows one button press to print all files
+
+Why
+Reduce print time by not needing to interface with each program
+Allow you to print all files at once and make one trip to printer instead of many
+
+Minimal Needs
+    [x]GUI interface
+    [x]Button to Select files
+        [x]GUI Object
+        [x]Function to select files
+    [x]Button to Print files
+        [x]GUI Object
+        [x]Function to print files
+    []Program should run with out error
+    []Program should validate file type
+    [x]Program should validate list of files to print for no blank space errors
+
+First Release Needs
+    []Program should safely print files
+    []Files should be able to be removed
+    []Files should be able to be re ordered
+    []Files should be able to duplicated
+    []GUI should be easy to understand
+    []GUI should be clean
